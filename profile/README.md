@@ -12,6 +12,18 @@
 모임을 메인 컨텐츠로 시작했으며
 하루모임, 소모임을 통해 다양한 모임을 다양한 형태로 즐길 수 있도록 개발을 진행했습니다.
 
+## **결과물**
+
+![1](https://github.com/CommonOrganization/.github/assets/76200940/ab8149f7-8762-4fb1-8162-90723202a74b)
+![2](https://github.com/CommonOrganization/.github/assets/76200940/298085a1-73b1-4d09-9b2f-280e147ed83f)
+![3](https://github.com/CommonOrganization/.github/assets/76200940/ba788324-e2c4-4e47-b762-06f99afae803)
+![4](https://github.com/CommonOrganization/.github/assets/76200940/ecb376bb-ae68-4f85-9775-d351733310df)
+![5](https://github.com/CommonOrganization/.github/assets/76200940/4e63a24b-fc66-4098-a331-dab9158ae8d7)
+![6](https://github.com/CommonOrganization/.github/assets/76200940/21918b3b-83b7-43b0-8b16-a4f334d36af3)
+![7](https://github.com/CommonOrganization/.github/assets/76200940/16e6df79-5e03-476a-ab5a-4f3c5494b449)
+![8](https://github.com/CommonOrganization/.github/assets/76200940/06291a04-bc44-4481-83db-cb849ed3c6e8)
+
+
 ## **링크**
 - **모바일 :** [MOBILE](https://github.com/CommonOrganization/common_mobile)
 - **서버 :** [BACKEND](https://github.com/CommonOrganization/common_backend)
